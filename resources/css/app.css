@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-#baseboard {
-    background-color: #000044;
+#contentbase {
+    background-color: rgb(32 127 162);
+    height: 100vh;
+}
+#menubase {
+    background-color: rgb(149 211 234);
+}
+#navbase {
+    background-color: rgb(17 67 85);
+    color: rgb(255 255 255);
 }
